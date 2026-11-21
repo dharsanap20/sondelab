@@ -1,0 +1,24 @@
+{
+  "name": "capital-of-france",
+  "expected": "Paris",
+  "prompts": [
+    {
+      "name": "original",
+      "text": "What is the capital of France?"
+    },
+    {
+      "name": "paraphrase",
+      "text": "Which city serves as France's capital?"
+    }
+  ],
+  "contexts": [
+    {
+      "name": "none",
+      "text": ""
+    },
+    {
+      "name": "relevant",
+      "text": "Paris is the capital city of France."
+    }
+  ]
+}
